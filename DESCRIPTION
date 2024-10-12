@@ -1,0 +1,14 @@
+Package: WavletMatrixPackage
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sara", "Antonijevic", , "saraant@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0006-0142-8860"))
+Description: Provides orthogonal discrete wavelet transformations using matrix representations for efficient computation in R.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
